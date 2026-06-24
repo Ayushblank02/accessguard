@@ -316,9 +316,3 @@ This project was built to explore:
 
 GitHub:
 https://github.com/Ayushblank02
-
----
-
-## License
-
-This project is licensed under the MIT License.
