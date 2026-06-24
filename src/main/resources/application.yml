@@ -1,14 +1,13 @@
 spring:
   datasource:
-    url: ${DB_URL:jdbc:postgresql://localhost:5432/accessguard?options=-c%20TimeZone=UTC}
-    username: ${DB_USERNAME:postgres}
-    password: ${DB_PASSWORD:postgres}
+    url: ${DATABASE_URL}
+    driver-class-name: org.postgresql.Driver
 
   jpa:
     hibernate:
       ddl-auto: validate
 
-    show-sql: true
+    show-sql: false
 
   flyway:
     enabled: true
