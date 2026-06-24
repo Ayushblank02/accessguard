@@ -310,6 +310,13 @@ This project was built to explore:
 
 ---
 
+## Live Demo
+
+- **API Health Check:** https://accessguard-7nv9.onrender.com/
+- **Swagger UI:** https://accessguard-7nv9.onrender.com/swagger-ui/index.html
+
+---
+
 ## Author
 
 **Ayush Srivastava**
